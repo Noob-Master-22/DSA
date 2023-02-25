@@ -31,12 +31,16 @@ Graph traversals are a way to travel and access/print the nodes in the graph. Th
 
 When you pick up a node and travel all the way down, and then check for any other node.
 
-- [DFS in Graph using Adjacency Matrix](GraphDFSAdjMat.java)
-- [DFS in Graph using Adjacency List](GraphDFSAdjList.java)
+- [DFS in Graph using Adjacency Matrix](GraphDFSAdjMat.md)
+- [DFS in Graph using Adjacency List](GraphDFSAdjList.md)
 
 **Breadth First Search (BFS)**
 
 When you pick up a node and traverse it's neighbours at the present depth before moving in deep. 
 
-- [BFS in Graph using Adjacency Matrix](GraphBFSAdjMat.java)
-- [DFS in Graph using Adjacency List](GraphBFSAdjList.java)
+- [BFS in Graph using Adjacency Matrix](GraphBFSAdjMat.md)
+- [BFS in Graph using Adjacency List](GraphBFSAdjList.md)
+
+**Additonal Resources**
+[Implementing DFS In Java](https://favtutor.com/blogs/depth-first-search-java)
+[Implementing BFS In Java](https://favtutor.com/blogs/breadth-first-search-java)
